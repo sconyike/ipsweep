@@ -1,8 +1,11 @@
 # ipsweep
 A Bash script designed to automatically perform a ping sweep on a /24 subnet. It scans every IP address in the subnet, identifying live hosts for network analysis or troubleshooting. 
 
+
+
 How to run:
-./ipsweep.sh 192.168.4.
+./ipsweep.sh {ip address}
+
 
 
 Frequently Asked Questions:
