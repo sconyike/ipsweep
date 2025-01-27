@@ -4,7 +4,6 @@ A Bash script designed to automatically perform a ping sweep on a /24 subnet. It
 
 
 How to run:
-
 ./ipsweep.sh {ip address}
 
 
